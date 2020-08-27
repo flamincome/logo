@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100vh;">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>logo</title>
+</head>
+
+<body
+    style="background-color: black; margin: 0; height: 100vh; display: flex; justify-content: center; align-items: center;">
+    <div>
+        <pre id="content" style="font-size: large;color: white;"></pre>
+        <footer>
+            <a href="https://flamincome.github.io">Home</a>
+            <a href="https://github.com/flamincome/logo">Github</a>
+            <a href="#">Others</a>
+        </footer>
+    </div>
+    <script>
+        fetch("flamincome").then(resp => {
+            resp.text().then(text => {
+                document.getElementById('content').innerText = text
+            })
+        })
+    </script>
+</body>
+
+</html>
