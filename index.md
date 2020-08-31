@@ -2,8 +2,8 @@
 
 ### logo list
 
-- [flamincome](#flamincome)
-- [symbol](#symbol)
+- [flamincome](https://flamincome.github.io/logo/#flamincome)
+- [symbol](https://flamincome.github.io/logo/#symbol)
 
 <footer>
 <a href="https://flamincome.github.io">home</a>
