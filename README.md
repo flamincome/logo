@@ -1,6 +1,6 @@
 # logo
 
-the basic flamincome logo (showed below) is in `master` branch while other forms of flamincome logos will be located in other branches
+the basic flamincome logo is showed below while other forms of flamincome logos will be located in other files.
 
 ```txt
             __  
