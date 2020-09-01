@@ -7,6 +7,7 @@
 
 <footer>
 <a href="https://flamincome.github.io">home</a>
+<a href="https://flamincome.github.io/docs">docs</a>
 <a href="https://flamincome.github.io/logo">logo</a>
 </footer>
 
